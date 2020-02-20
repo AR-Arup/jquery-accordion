@@ -1,0 +1,17 @@
+.box {
+    width: 50%;
+    margin: 100px auto;
+}
+.box .ui-state-active {
+    background: rgba(224, 86, 253,1.0);
+    background-position:-224px -32px
+}
+.box .ui-icon {
+    float: right; 
+}
+.box .ui-state-active .ui-icon {
+    background-position: -67px -126px;
+}
+.box .ui-icon-triangle-1-e {
+    background-position: -36px -127px;
+}
